@@ -1,0 +1,29 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6380#comment
+status: Failed
+feedback:
+  message: |
+    Failed test #1 of 8. Runtime error
+
+    This is a sample test from the problem statement!
+
+    Test input:
+    99
+    3
+    Correct output:
+    True
+
+    Your code output:
+
+
+    Error:
+      File "jailed_code", line 4
+        print(a/b = %2 != 0)
+                    ^
+    SyntaxError: invalid syntax
+  time: Tue, 19 Oct 2021 00:48:02 UTC
+record: -1
